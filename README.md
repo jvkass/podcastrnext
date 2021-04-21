@@ -21,3 +21,11 @@ yarn add json-server -D
 
 e configurar o script no package.json
 
+---------------------------- Aula 3 ----------------------
+
+Construção da home através dos dados coletados anteriormente na API FAKE
+
+instalando o axios para substituir o fetch para consumir API
+
+yarn add axios
+
