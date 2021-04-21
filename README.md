@@ -15,4 +15,9 @@ biblioteca para a data
 
 yarn add date-fns
 
-1 h e 5 min
+Instalar o Json server para mockar uma API FAKE em desenvolvimento
+
+yarn add json-server -D
+
+e configurar o script no package.json
+
