@@ -29,3 +29,15 @@ instalando o axios para substituir o fetch para consumir API
 
 yarn add axios
 
+----------------------------------aula 04----------------------
+Criação do player Context, onde colocamos: 
+PlayerContext.Provider value={''}
+por fora dos components e podemos acessar o valor do mesmo dentro do index.tsx
+
+const player = useContext(PlayerContext);
+
+colocando ele dentro de qualquer tag html entre chaves
+
+Últimos lançamentos {player}
+
+instalar o yarn add rc-slider
